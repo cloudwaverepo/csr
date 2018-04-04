@@ -1,1 +1,1 @@
-{csr}http://www.cloudwavenew-env.ap-southeast-2.elasticbeanstalk.com/csr{csr}
+{csr}http://www.weglare.com/csr{csr}
